@@ -5,7 +5,7 @@ Welcome to my Travel Blog website! This project is a simple and responsive trave
 
 The website is designed to showcase beautiful travel destinations with a clean layout and an enjoyable user experience. It helped me practice web design, page structure, and responsive styling.
 
-2. Features
+2. Features<br>
 Clean and modern design<br>
 Responsive layout<br>
 Travel destination sections<br>
