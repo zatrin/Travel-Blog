@@ -17,7 +17,7 @@ Attractive images and content presentation<br>
 # Technologies Used<br>
 
 HTML5<br>
-CSS3
+CSS<br>
 # Purpose of the Project<br>
 
 I built this project to improve my front-end development skills and gain hands-on experience with HTML and CSS. It allowed me to practice creating responsive layouts and designing visually appealing web pages.<br>
@@ -28,10 +28,5 @@ Add more travel destinations<br>
 Create a blog posting section<br>
 Add animations and transitions<br>
 Improve mobile responsiveness<br>
-Add a contact page
 
- 7.Author<br>
 
-Rahul Thapa<br>
-
-GitHub: https://github.com/zatrin<br>
